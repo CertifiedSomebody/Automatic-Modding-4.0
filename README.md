@@ -146,7 +146,7 @@ The developer assumes **no responsibility for misuse or damage caused by this to
 **Email**
 
 ```
-sanjjha093@gmail.com
+jhaprabhat884@gmail.com
 ```
 
 ---
@@ -162,7 +162,7 @@ https://www.youtube.com/@secrettech9186
 ## 💻 GitHub
 
 ```
-https://github.com/lolakulu
+https://github.com/CertifiedSomebody
 ```
 
 ---
